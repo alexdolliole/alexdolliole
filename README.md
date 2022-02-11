@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alexandria Dolliole</h1>
 <h3 align="center">A passionate Software Developer from the Pacific Northwest</h3>
 
+- 🤓 What I do **I am currently a Product Specialist for Hopin. When I am not working, I am currently enrolled in A Front End Web Development class with Promineo Tech.**
+
 - 🌱 I’m currently learning **Front End Web Development skills and technologies such as JavaScript, Algorithms, OOP, Design Patterns, Unit Testing, HTML, CSS, Bootstrap, JQuery, AJAX, ReactJS, JSX, NPM, Redux, and AWS.**
 
 - 💬 Ask me about **Anything!**
